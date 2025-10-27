@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "aligned": 0.385,
+    "unaligned": 0.52
+  },
+  "defense": {
+    "aligned": 0.315,
+    "unaligned": 0.295
+  }
+}
