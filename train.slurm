@@ -23,6 +23,6 @@ export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
 echo "LD_LIBRARY_PATH set to: $LD_LIBRARY_PATH"
 
 # Run training
-papermill proposed.ipynb outs_new.ipynb
+papermill proposed_prompt.ipynb outs_prompt.ipynb
 
 echo "Job finished at $(date)"

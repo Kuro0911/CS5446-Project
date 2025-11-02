@@ -1,5 +1,0 @@
-/home/d/dhansha/.bashrc: line 2: /home/d/dhansha/.cargo/env: No such file or directory
-Input Notebook:  proposed.ipynb
-Output Notebook: outs_new.ipynb
-Executing:   0%|                                                                                                                                                            | 0/21 [00:00<?, ?cell/s]Executing notebook with kernel: python3
-Executing:   5%|███████                                                                                                                                             | 1/21 [00:23<07:44, 23.22s/cell]Executing:  14%|█████████████████████▏                                                                                                                              | 3/21 [00:31<02:46,  9.24s/cell]Executing:  29%|██████████████████████████████████████████▎                                                                                                         | 6/21 [01:19<03:20, 13.34s/cell]
