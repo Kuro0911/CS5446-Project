@@ -23,7 +23,7 @@ DEFAULT_MODELS = {
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 DTYPE = torch.bfloat16 if torch.cuda.is_available() else torch.float32
-auth_token = "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"
+auth_token = "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"
 
 _PREFERRED_Q4K_ORDER = ("Q4_K_M", "Q4_K_S", "Q4_K_L", "Q4_K")
 _ENV_LOCAL_GGUF = "HF_GGUF_LOCAL_PATH"
