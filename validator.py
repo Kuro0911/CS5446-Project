@@ -70,7 +70,7 @@ def _get_hf_judge():
     device = 0 if torch.cuda.is_available() else -1
     dtype = _pick_dtype()
 
-    hf_token =  "HF_TOKEN"
+    hf_token =  os.environ.get("HF_TOKEN")
     if hf_token is None:
         raise RuntimeError(
             "❌ Hugging Face token not found. Set it with:\n"
